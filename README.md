@@ -1,4 +1,4 @@
-# embulk-decoder-gzip
+# embulk-decoder-gzip / embulk-guess-gzip
 
 This is one of Embulk's "standard" plugins that are embedded in Embulk's executable binary distributions.
 
